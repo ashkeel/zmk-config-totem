@@ -23,7 +23,7 @@
 #define ADJ  4
 
 &mt {
-  quick-tap-ms = <100>;
+  quick-tap-ms = <150>;
   global-quick-tap;
   flavor = "hold-preferred";
   tapping-term-ms = <200>;
